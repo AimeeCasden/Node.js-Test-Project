@@ -1,0 +1,16 @@
+{
+  "name": "how-to-npm",
+  "version": "1.0.0",
+  "description": "basic how to for node",
+  "main": "index.js",
+  "repository": {},
+  "scripts": {  
+    "test": "node test.js"  
+  },  
+  
+  "author": "aimee casden",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
